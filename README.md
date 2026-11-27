@@ -38,6 +38,6 @@ Hay un instructivo con capturas en `docs/Instructivo.docx`.
 | `Mac/LEEME.txt` | Instrucciones de los scripts de Avid para Mac |
 | `docs/Instructivo.docx` | Instructivo |
 
-## Descargas
+## Descargas (listo para usar)
 
-El `.exe` compilado para Windows está en **Releases**.
+El `.exe` compilado para Windows está en la carpeta **`descargas/`**.
